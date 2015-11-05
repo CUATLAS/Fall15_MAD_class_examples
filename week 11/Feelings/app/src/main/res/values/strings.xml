@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Feelings</string>
+    <string name="heading">How are you feeling?</string>
+    <string name="mood_button">Mood</string>
+    <string name="feeling"></string>
+    <string-array name="moods">
+        <item>happy</item>
+        <item>sad</item>
+        <item>confused</item>
+        <item>angry</item>
+    </string-array>
+    <string name="name_textView">Name</string>
+</resources>
