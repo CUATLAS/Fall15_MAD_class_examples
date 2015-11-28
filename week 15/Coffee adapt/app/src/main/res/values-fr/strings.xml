@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cafe</string>
+    <string name="title">Chercher un magasin du cafe</string>
+    <string name="coffee_type">Choisir tes personnes</string>
+    <string name="button">Chercher du cafe</string>
+    <string-array name="crowd">
+        <item>populaire</item>
+        <item>velo</item>
+        <item>branche</item>
+        <item>the</item>
+        <item>hippie</item>
+        <item>universite</item>
+    </string-array>
+    <string name="coffee_image">une tasse</string>
+    <string name="suggested_coffee"></string>
+    <string name="message">Tu aimerais </string>
+</resources>
